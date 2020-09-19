@@ -22,7 +22,9 @@
             <artifactId>guava</artifactId>
             <version>31.1-jre</version>
         </dependency>
+
         <!-- https://mvnrepository.com/artifact/com.opencsv/opencsv -->
+        <!-- homepage: https://opencsv.sourceforge.net/ -->
         <dependency>
             <groupId>com.opencsv</groupId>
             <artifactId>opencsv</artifactId>
